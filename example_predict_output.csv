@@ -1,0 +1,6 @@
+Seq_ID,Sequence,ML_Score,BLAST_Score,Total_Score,Prediction
+seq1,DLDMAYIYSQHYHRH,0.71,0.5,1.21,IL-5 inducer
+seq2,VTKIFNRFDTNGDGQI,0.73,0.5,1.23,IL-5 inducer
+seq3,AFEPFGYLLTAAVSP,0.67,0.5,1.17,IL-5 inducer
+seq4,TIQKRGAAVISARKL,0.07,-0.5,-0.43,Non-IL-5 Inducer
+seq5,AKLENIKTTIQSASL,0.04,-0.5,-0.46,Non-IL-5 Inducer
