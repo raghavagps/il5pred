@@ -13,10 +13,15 @@ Standalone version of IL5pred is written in python3 and the following libraries 
 - Numpy
 - blastp
 
+## Important Note
+- Due to large size of the model file, we have not included it in the zipped folder or GitHub repository, thus to run standalone successfully you need to download model file and then unzip them.
+- Make sure you extract the download zip files in the directory where main execution file i.e. il5pred.py is available.
+- To download the model folder click [here].(https://webs.iiitd.edu.in/raghava/il5pred/model.zip)
+
 ## Minimum usage
 To know about the available option for the standalone, type the following command:
 ```
-python il5pred.py -h
+python3 il5pred.py -h
 ```
 To run the example, type the following command:
 ```
