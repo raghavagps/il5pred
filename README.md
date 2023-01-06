@@ -4,7 +4,7 @@ A computational method to predict and scan IL-5 inducing peptides.
 IL5pred is developed to predict, scan, and design IL-5 inducing peptides. More information on IL5pred web server is available at https://webs.iiitd.edu.in/raghava/il5pred. Please read/cite the content about the IL5pred for complete information including the algorithm behind the approach. 
 
 ## Reference
-Devi et al. (2022) Prediction and scanning of IL-5 inducing peptides using alignment-free and alignment-based method. <a href=" https://doi.org/10.1101/2022.10.19.512965">Biorxiv </a> 
+Devi et al. (2022) Prediction and scanning of IL-5 inducing peptides using alignment-free and alignment-based method. <a href="https://doi.org/10.1101/2022.10.19.512965">Biorxiv</a> 
 ## Model
 The best Random Forest-based hybrid model (RF(DPC)+BLAST) is implemented in the webserver. 
 
