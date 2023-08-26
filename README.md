@@ -8,6 +8,15 @@ Devi NL, Sharma N and Raghava GPS (2023) A web server for predicting and scannin
 ## Model
 The best Random Forest-based hybrid model (RF(DPC)+BLAST) is implemented in the webserver. 
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install il5pred
+```
+To know about the available option for the pip package, type the following command:
+```
+il5pred -h
+```
 ## Standalone
 Standalone version of IL5pred is written in python3 and the following libraries are necessary for a successful run:
 - scikit-learn
