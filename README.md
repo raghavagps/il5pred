@@ -9,6 +9,10 @@ Contain all the datasets
 
 ## Reference
 Devi NL, Sharma N and Raghava GPS (2023) A web server for predicting and scanning of IL-5 inducing peptides using alignment-free and alignment-based method. <a href="https://doi.org/10.1016/j.compbiomed.2023.106864">Computers in Biology and Medicine, DOI:10.1016/j.compbiomed.2023.106864</a>.
+
+## Zenodo
+https://doi.org/10.5281/zenodo.20033361
+
 ## Model
 The best Random Forest-based hybrid model (RF(DPC)+BLAST) is implemented in the webserver. 
 
